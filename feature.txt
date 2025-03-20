@@ -1,0 +1,1 @@
+From this lab, you learned the essential skills for setting up your web development environment. You installed key tools like Visual Studio Code, Git, and Node.js, equipping yourself with the foundation to write and manage code effectively. You created your first HTML webpage, gaining hands-on experience in building and viewing web content
